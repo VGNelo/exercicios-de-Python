@@ -18,10 +18,31 @@ Os arquivos estão organizados por temas ou níveis de dificuldade. Exemplos:
 
 - `exercicios 01.py` – Introdução e lógica básica  
 - `exercicios 02.py` – Funções e estruturas de dados  
-- `exercicios.py` – Exercícios variados para revisão  
+- `exercicios.py` – Exercícios variados para revisão
+
+- 📚 Fontes oficiais para aprendizado
+   -Documentação oficial do Python
+
+   -Python.org – Página de downloads e tutoriais
+
+   -W3Schools – Tutorial de Python
+
+   -Real Python – Artigos e guias práticos
 
 ## 🚀 Como usar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/VGNelo/exercicios-de-Python.git
+
+2. Abra os arquivos .py em seu editor favorito (VS Code, PyCharm, etc.)
+
+3. Execute os exercícios no terminal ou interprete linha por linha para entender o funcionamento.
+
+   
+🤝 Contribuições
+Este projeto é voltado para fins educacionais. Se quiser sugerir novos exercícios ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
+
+Criado por Valdemir G Nelo — entusiasta da tecnologia e defensor do aprendizado contínuo.
+
+---
