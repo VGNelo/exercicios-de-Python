@@ -1,4 +1,4 @@
- # importa a biblioteca Numpy /  Time
+# importa a biblioteca Numpy /  Time
 import numpy as np 
 import time
 
@@ -29,3 +29,4 @@ array_time = time.time() - start_time
 print("Tempo da operação com a lista: ", list_time)
 
 print("Tempo da operação com o array: ", array_time)
+
