@@ -1,4 +1,5 @@
-import numpy as np  # importa a biblioteca Numpy
+ # importa a biblioteca Numpy /  Time
+import numpy as np 
 import time
 
 # cria uma lista com 1000000 elementos
@@ -26,4 +27,5 @@ array_quadrado = array**2
 array_time = time.time() - start_time
 
 print("Tempo da operação com a lista: ", list_time)
+
 print("Tempo da operação com o array: ", array_time)
